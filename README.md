@@ -1,2 +1,2 @@
 # CIS260
-Class projects
+educational repository for XML and Cloud computing
